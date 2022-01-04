@@ -1,2 +1,3 @@
 # tess_data_analysis
-Jupyter notebook to analyze TESS data
+
+Jupyter notebooks to cut TESS light curves and analyze TESS target pixel files as well as SAP, PDCSAP and DVT light curves.
